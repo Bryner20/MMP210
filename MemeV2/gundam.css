@@ -18,12 +18,12 @@ a:hover{
 }
 
 img{
-	width: 75%;
+	width: 100%;
 }
 
 #container {
-	min-width: 920px;
-	max-width: 1050px;
+	min-width: 320px;
+	max-width: 950px;
 	margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ img{
 }
 
 #header a{
-	font-size: 5em; 
+	font-size: 1.5em; 
 }
 
 #portfolio {
