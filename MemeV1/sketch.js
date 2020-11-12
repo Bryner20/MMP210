@@ -17,9 +17,6 @@ function draw() {
 
 	image(femaleGD,300, 200);
 
-
-
-
     textSize(15);
     fill('Darkred');
     stroke('black');
